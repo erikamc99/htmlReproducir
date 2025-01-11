@@ -12,8 +12,7 @@ body {
 }
 
 div {
-    display: flex;
-    margin: 5px;
+    display: none;
     justify-content: center;
     align-items: center;
     height: 100px;
@@ -51,8 +50,4 @@ p.text {
 p.emote {
     font-size: 37px;
     margin: 0;
-}
-
-#hidden {
-    display: none;
 }
