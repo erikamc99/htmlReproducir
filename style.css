@@ -51,3 +51,7 @@ p.emote {
     font-size: 37px;
     margin: 0;
 }
+
+#multilineTxt {
+    width: 100px;
+}
